@@ -1,0 +1,2 @@
+Mode = Decode
+CodingParams = configs\MyConfigs\codingParams.txt
